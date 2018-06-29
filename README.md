@@ -57,7 +57,7 @@ $simbossClient = SimbossClient::newInstance(null, null, null, $conf);
 ## API 清单
 
 | API 名称               |           请求参                 |
-| --------------------- | ----------------------------- |
+| --------------------- | ------------------------------------------------------- |
 |1.1 账户总览接口         | UserDashboardGetRequest         |
 |2.1 批量卡详情			 | DeviceDetailBatchRequest        |
 |2.2 单卡详情				 | DeviceDetailRequest             |
