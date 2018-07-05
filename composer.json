@@ -1,5 +1,5 @@
 {
-	"name" : "simboss/simboss-php-sdk",
+	"name" : "simboss/sdk",
 	"type" : "library",
 	"description" : "simboss php sdk",
 	"homepage" : "http://www.simboss.com",
