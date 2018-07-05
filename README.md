@@ -8,7 +8,7 @@ simboss-php-sdk
 
 ```json
 "require": {
-        "simboss/simboss-php-sdk" : ">=1.0"
+        "simboss/simboss-php-sdk" : "dev-master"
     }
 ```
 
