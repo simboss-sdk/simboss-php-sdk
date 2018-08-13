@@ -51,7 +51,7 @@ class SimbossClient {
         //set head or cookies param
         //$optConf = [ 'headers' => [], 'cookies' => []];
         $heads = ['Content-Type' => 'application/x-www-form-urlencoded;charset=' . $this->defaultCharSet];
-        $optConf = [ 'head' => $head];
+        $optConf = [ 'head' => $heads];
         $this->httpClient = new Client($optConf);
     }
    
